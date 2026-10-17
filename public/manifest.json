@@ -1,0 +1,36 @@
+{
+  "name": "تعمیرات نوین - آقا محسن",
+  "short_name": "نوین",
+  "description": "تعمیرات تخصصی لوازم خانگی، پکیج، آبگرمکن، لباسشویی، کولرگازی، آیفون و سیم‌کشی ساختمان در تهران — آقا محسن",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "lang": "fa",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "utilities"],
+  "shortcuts": [
+    {
+      "name": "تماس فوری",
+      "short_name": "تماس",
+      "description": "تماس با آقا محسن",
+      "url": "/?action=call",
+      "icons": [{ "src": "/icons/icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
